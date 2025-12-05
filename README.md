@@ -2,8 +2,6 @@
 
 A modern, interactive Hangman word-guessing game built with React, TypeScript, and Vite. Features player statistics tracking, hint system, and a sleek purple gradient UI.
 
-![Hangman Game](https://github.com/markkenneth0711/hangman-app/blob/main/screenshot.png)
-
 ## ✨ Features
 
 - 📊 **Statistics Tracking** - Monitor your wins, losses, current streak, and best streak
@@ -70,7 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/markkenneth0711/hangman-app/issues).
-
----
-
-Made with ❤️ by [Mark Kenneth](https://github.com/markkenneth0711)
